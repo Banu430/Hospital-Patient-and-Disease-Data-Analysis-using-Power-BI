@@ -1,4 +1,4 @@
-# Hospital Patient Analytics Dashboard – Full Project Report
+# Hospital Patient Analytics Dashboard 
 
 ## Abstract
 
